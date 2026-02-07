@@ -1,5 +1,19 @@
 # HOW TO USE - Trade Manager Panel for NinjaTrader 8
 
+## 📥 FIRST: Download the File
+
+**You need this file:** [TradeManagerPanel.cs](TradeManagerPanel.cs)
+
+**Quick Download:**
+1. Click the link above
+2. Click "Raw" button
+3. Save file (Ctrl+S or Cmd+S)
+4. Save as: `TradeManagerPanel.cs`
+
+**Need detailed download help?** → [DOWNLOAD.md](DOWNLOAD.md)
+
+---
+
 ## ⚠️ IMPORTANT: This is an ADD-ON, not an Indicator!
 
 Many users ask: **"Should I create an indicator?"** 

@@ -1,5 +1,15 @@
 # NinjaTrader 8 Trade Manager Panel
 
+## 📥 DOWNLOAD THE FILE HERE
+
+**👉 [TradeManagerPanel.cs](TradeManagerPanel.cs) 👈 CLICK TO DOWNLOAD**
+
+Or download directly:
+- **GitHub**: Click the file name above, then click "Raw" button, then Save As
+- **Direct Link**: `https://raw.githubusercontent.com/kamaneri/new-applicants-assignment/copilot/add-trade-manager-panel/TradeManagerPanel.cs`
+
+---
+
 ## ⚠️ CONFUSED ABOUT HOW TO USE THIS?
 
 **→ READ THIS FIRST: [HOW_TO_USE.md](HOW_TO_USE.md) ←**
@@ -74,18 +84,26 @@ Click BUY or SELL
 
 ## 📁 Files in This Repository
 
-| File | Description | Size |
-|------|-------------|------|
-| **TradeManagerPanel.cs** | Main source code (C#) | 1,119 lines |
-| **NINJATRADER_INSTALLATION.md** | Complete installation & usage guide | 306 lines |
-| **TECHNICAL_DOCUMENTATION.md** | Architecture & algorithms | 467 lines |
-| **QUICK_REFERENCE.md** | Quick start & cheat sheet | 346 lines |
-| **VISUAL_DIAGRAMS.md** | Visual aids & examples | 463 lines |
-| **PROJECT_SUMMARY.md** | Complete project overview | 434 lines |
+| File | Description | Size | Download |
+|------|-------------|------|----------|
+| **TradeManagerPanel.cs** | Main source code (C#) | 1,119 lines | **[DOWNLOAD →](TradeManagerPanel.cs)** |
+| **DOWNLOAD.md** | Download instructions | Guide | [Read](DOWNLOAD.md) |
+| **HOW_TO_USE.md** | Complete usage guide | Guide | [Read](HOW_TO_USE.md) |
+| **NINJATRADER_INSTALLATION.md** | Complete installation & usage guide | 306 lines | [Read](NINJATRADER_INSTALLATION.md) |
+| **TECHNICAL_DOCUMENTATION.md** | Architecture & algorithms | 467 lines | [Read](TECHNICAL_DOCUMENTATION.md) |
+| **QUICK_REFERENCE.md** | Quick start & cheat sheet | 346 lines | [Read](QUICK_REFERENCE.md) |
+| **VISUAL_DIAGRAMS.md** | Visual aids & examples | 463 lines | [Read](VISUAL_DIAGRAMS.md) |
+| **PROJECT_SUMMARY.md** | Complete project overview | 434 lines | [Read](PROJECT_SUMMARY.md) |
 
 **Total: 3,135+ lines of code and documentation**
 
 ## 📖 Documentation
+
+### 📥 Need the File?
+Download here → **[DOWNLOAD.md](DOWNLOAD.md)**
+- Multiple download methods
+- Troubleshooting download issues
+- File verification steps
 
 ### 🆕 START HERE if confused!
 **[HOW_TO_USE.md](HOW_TO_USE.md)** - Complete usage guide
@@ -266,6 +284,7 @@ BE: Fixed ticks (5)
 
 | Resource | Link | When to Use |
 |----------|------|-------------|
+| **📥 DOWNLOAD FILE** | [DOWNLOAD.md](DOWNLOAD.md) | **Get the CS file** - Multiple download methods |
 | **HOW TO USE** | [HOW_TO_USE.md](HOW_TO_USE.md) | **START HERE** - Confused? Read this first! |
 | Source Code | [TradeManagerPanel.cs](TradeManagerPanel.cs) | The actual code file to import |
 | Installation | [NINJATRADER_INSTALLATION.md](NINJATRADER_INSTALLATION.md) | Detailed installation guide |
@@ -279,9 +298,9 @@ BE: Fixed ticks (5)
 This is a **complete, production-ready implementation**. All features are implemented, tested, and documented. Download the source file and start using it immediately!
 
 ### Next Steps
-1. ⬇️ Download `TradeManagerPanel.cs`
-2. 📥 Import into NinjaTrader 8
-3. 📖 Read `QUICK_REFERENCE.md`
+1. ⬇️ **[Download TradeManagerPanel.cs](DOWNLOAD.md)** ← Multiple download methods
+2. 📥 Import into NinjaTrader 8 (Tools → Import → NinjaScript Add-On)
+3. 📖 Read [HOW_TO_USE.md](HOW_TO_USE.md) for step-by-step instructions
 4. 🧪 Test in simulation
 5. 📈 Start trading with confidence!
 
