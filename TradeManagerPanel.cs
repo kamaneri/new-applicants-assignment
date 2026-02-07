@@ -646,8 +646,8 @@ namespace NinjaTrader.NinjaScript.AddOns
                 lastBarIndex = 0;
             
             double lastCandleHigh = bars.GetHigh(lastBarIndex);
-            double lastCandlelow = bars.GetLow(lastBarIndex);
-            double candleSize = lastCandleHigh - lastCandlelow;
+            double lastCandleLow = bars.GetLow(lastBarIndex);
+            double candleSize = lastCandleHigh - lastCandleLow;
             
             // Add buffer in ticks
             double bufferAmount = stopLossBufferTicks * instrument.MasterInstrument.TickSize;
