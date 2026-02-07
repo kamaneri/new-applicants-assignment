@@ -1,5 +1,14 @@
 # NinjaTrader 8 Trade Manager Panel
 
+## ⚠️ CONFUSED ABOUT HOW TO USE THIS?
+
+**→ READ THIS FIRST: [HOW_TO_USE.md](HOW_TO_USE.md) ←**
+
+**Common Question:** *"Should I create an indicator?"*  
+**Answer:** **NO!** This is an **Add-On**, not an Indicator. Just import it and add it to your chart. [See detailed instructions →](HOW_TO_USE.md)
+
+---
+
 ## 🎯 Overview
 
 This repository contains a **production-ready Trade Manager Panel for NinjaTrader 8** - a comprehensive automated risk management system with visual projections and intelligent order execution.
@@ -22,14 +31,23 @@ This repository contains a **production-ready Trade Manager Panel for NinjaTrade
 
 ## 🚀 Quick Start
 
+### ❓ New to This? Start Here!
+**→ [COMPLETE USAGE GUIDE: HOW_TO_USE.md](HOW_TO_USE.md) ←**
+
+This guide answers:
+- ✅ "Should I create an indicator?" (No! It's an Add-On)
+- ✅ "How do I import this?"
+- ✅ "Where do I find it after importing?"
+- ✅ "Step-by-step usage instructions"
+
 ### 1. Installation (2 minutes)
 ```
 1. Download TradeManagerPanel.cs
 2. Open NinjaTrader 8
-3. Tools → Import → NinjaScript Add-On
+3. Tools → Import → NinjaScript Add-On (NOT Indicator!)
 4. Select the file
 5. Press F5 to compile
-6. Add to chart from Add-On menu
+6. Add to chart from Add-On menu (Right-click chart → Add-On → TradeManagerPanel)
 ```
 
 ### 2. Basic Setup (30 seconds)
@@ -68,6 +86,13 @@ Click BUY or SELL
 **Total: 3,135+ lines of code and documentation**
 
 ## 📖 Documentation
+
+### 🆕 START HERE if confused!
+**[HOW_TO_USE.md](HOW_TO_USE.md)** - Complete usage guide
+- Explains Add-On vs Indicator
+- Step-by-step import instructions
+- Detailed usage walkthrough
+- Answers all common questions
 
 ### For Beginners
 Start here → **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)**
@@ -239,14 +264,15 @@ BE: Fixed ticks (5)
 
 ## 🔗 Quick Links
 
-| Resource | Link |
-|----------|------|
-| Source Code | [TradeManagerPanel.cs](TradeManagerPanel.cs) |
-| Installation | [NINJATRADER_INSTALLATION.md](NINJATRADER_INSTALLATION.md) |
-| Quick Start | [QUICK_REFERENCE.md](QUICK_REFERENCE.md) |
-| Diagrams | [VISUAL_DIAGRAMS.md](VISUAL_DIAGRAMS.md) |
-| Technical Docs | [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md) |
-| Summary | [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) |
+| Resource | Link | When to Use |
+|----------|------|-------------|
+| **HOW TO USE** | [HOW_TO_USE.md](HOW_TO_USE.md) | **START HERE** - Confused? Read this first! |
+| Source Code | [TradeManagerPanel.cs](TradeManagerPanel.cs) | The actual code file to import |
+| Installation | [NINJATRADER_INSTALLATION.md](NINJATRADER_INSTALLATION.md) | Detailed installation guide |
+| Quick Start | [QUICK_REFERENCE.md](QUICK_REFERENCE.md) | Quick reference & cheat sheet |
+| Diagrams | [VISUAL_DIAGRAMS.md](VISUAL_DIAGRAMS.md) | Visual examples & diagrams |
+| Technical Docs | [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md) | For developers/customization |
+| Summary | [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) | Complete project overview |
 
 ## 🎉 Ready to Use
 
@@ -261,9 +287,32 @@ This is a **complete, production-ready implementation**. All features are implem
 
 ## 📞 Support
 
+- **"How do I use this?"**: See [HOW_TO_USE.md](HOW_TO_USE.md) - Complete step-by-step guide
 - **Installation Issues**: See [NINJATRADER_INSTALLATION.md](NINJATRADER_INSTALLATION.md) troubleshooting section
 - **Usage Questions**: See [QUICK_REFERENCE.md](QUICK_REFERENCE.md) FAQ section
 - **Technical Details**: See [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md)
+
+## ❓ Frequently Asked Questions
+
+### Q: Should I create an indicator?
+**A: NO!** This is already complete. It's an Add-On, not an Indicator. Just import it. [See HOW_TO_USE.md](HOW_TO_USE.md)
+
+### Q: Where do I find it after importing?
+**A:** Right-click on chart → **Add-On** → TradeManagerPanel (NOT in Indicators menu)
+
+### Q: It's not showing in my Indicators menu?
+**A:** That's because it's an Add-On, not an Indicator. Look in the **Add-On** menu instead.
+
+### Q: Do I need to write any code?
+**A: NO!** The code is complete. Just download TradeManagerPanel.cs and import it.
+
+### Q: How do I import it?
+**A:** Tools → Import → NinjaScript **Add-On** → Select TradeManagerPanel.cs. [Full guide](HOW_TO_USE.md)
+
+### Q: Can I test it in simulation?
+**A: YES!** Always test in simulation first. Connect to Sim101 and use normally.
+
+**For more FAQs, see [HOW_TO_USE.md](HOW_TO_USE.md)**
 
 ## 📝 License
 
